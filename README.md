@@ -1,4 +1,7 @@
-# Manuscript I — Active Thermography System Design and Capability
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-Under%20Review-green.svg)]()
+# Active Thermography for Non-destructive Determination of Bud Mortality for Grapes: System Design and Capability
 
 This directory contains all code, data organization, and documentation related to **Manuscript I**, which focuses on the **design, implementation, and validation of an active thermography system** for non-destructive grape-bud mortality assessment.
 
@@ -245,4 +248,25 @@ Each script fits a generalised linear mixed-effects model (GLME) at a progressiv
 Core dependencies: `PyQt5`, `PySpin` (FLIR SDK), `opencv-python`, `numpy`, `matplotlib`, `Pillow`, `pyFirmata`, `pyserial`.
 
 ---
+
+## Citation
+
+If you use this repository in academic research, please cite:
+
+```bibtex
+@article{zhai2026thermography,
+  title={Active Thermography for Non-destructive Determination of Bud Mortality for Grapes},
+  author={Zhai, Guangxun and Jiang, Yu and Owens, John and Vanden Heuvel, Justine and Zoubi, Alan},
+  journal={Under Review},
+  year={2026}
+}
+```
+
+---
+
+## License
+
+This project is released under the MIT License.
+
+See [LICENSE](LICENSE) for details.
 
