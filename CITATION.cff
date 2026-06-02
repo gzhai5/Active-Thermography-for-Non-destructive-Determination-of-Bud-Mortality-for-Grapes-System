@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+
+title: Active Thermography for Non-destructive Determination of Bud Mortality for Grapes: System Design and Capability
+
+authors:
+
+* family-names: Zhai
+  given-names: Guangxun
+* family-names: Jiang
+  given-names: Yu
+
+version: 1.0.0
+
+date-released: 2026-06-01
+
+repository-code: https://github.com/gz244/grape-bud-active-thermography
